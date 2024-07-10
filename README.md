@@ -1,7 +1,7 @@
 # Revenue Insights Dashboard in Power BI
 
 ## Project Overview
-Atliq Grands observed a decline in market share and revenue, necessitating a detailed analysis to understand the causes. A Power BI dashboard was developed to analyze three months of data, providing actionable insights into revenue trends and key performance indicators affecting market position.
+ Grands Enterprises observed a decline in market share and revenue, necessitating a detailed analysis to understand the causes. A Power BI dashboard was developed to analyze three months of data, providing actionable insights into revenue trends and key performance indicators affecting market position.
 
 ## Steps to Implement the Project
 
